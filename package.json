@@ -64,7 +64,7 @@
     "open-cli": "7.0.1",
     "prettier": "2.8.4",
     "standard-version": "9.5.0",
-    "ts-node": "10.2.1",
+    "ts-node": "10.9.1",
     "@types/node": "16.18.16",
     "typedoc": "0.21.9",
     "typescript": "4.9.5"
